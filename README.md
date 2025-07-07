@@ -22,7 +22,6 @@ The app automatically converts the input to SQL using Gemini and fetches the res
 - 🧠 Natural language interface using **Gemini AI**
 - 💬 Ask questions — no SQL or programming needed
 - 📊 Results shown in table format instantly
-- 🔄 Upload your own `.db` SQLite database
 - 🎨 Clean and professional **Streamlit UI**
 - 🚀 Lightweight, works in browser — no setup for users
 
@@ -41,14 +40,11 @@ Many teachers in colleges and schools handle internal marks data stored in Excel
 ### ✅ **Solution with DataAssist**  
 Teachers can:
 
-1. Upload their database (`student.db`)
-2. Type queries like:
+1. Type queries like:
    - _“Who scored less than 35 marks?”_
    - _“Top 5 students in DevOps”_
    - _“Show marks of Anvesha and Lilavati”_
-3. Instantly get results as a **sorted table**
-4. Export or screenshot for report generation
-
+2. Instantly get results as a **sorted table**
 🔗 **No SQL knowledge required**  
 💡 **Saves hours of manual filtering & formula work**
 
@@ -67,7 +63,8 @@ Teachers can:
 
 ---
 
-## 🚀 Getting Started
+![image](https://github.com/user-attachments/assets/4b92abbe-c0e8-40f5-8d3b-e86489542f92)
+
 
 ### 🔧 Prerequisites
 
